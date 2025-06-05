@@ -7,7 +7,7 @@ This repository hosts the full pipeline for **automated 3D stomatal trait analys
 
 ## Overview
 
-**StomaQuant-AI** integrates high-resolution **qDPC microscopy**, **UV-resin surface replication**, and **deep learning models (YOLOv8 + U-Net)** to detect and quantify **plant stomatal features** in 3D. The project addresses limitations in conventional stomatal phenotyping by providing a **non-invasive, scalable, and AI-driven solution** for measuring key traits used in **Water-Use Efficiency (WUE)** estimation.
+**Stoma3D-YOLOv8** integrates high-resolution **qDPC microscopy**, **UV-resin surface replication**, and **deep learning models (YOLOv8)** to detect and quantify **plant stomatal features** in 3D. The project addresses limitations in conventional stomatal phenotyping by providing a **non-invasive, scalable, and AI-driven solution** for measuring key traits used in **Water-Use Efficiency (WUE)** estimation.
 
 ---
 
